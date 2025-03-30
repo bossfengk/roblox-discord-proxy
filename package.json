@@ -1,7 +1,6 @@
 {
   "name": "roblox-discord-proxy",
   "version": "1.0.0",
-  "description": "A webhook proxy for Roblox → Discord",
   "main": "server.js",
   "dependencies": {
     "express": "^4.18.2",
@@ -10,8 +9,5 @@
   },
   "scripts": {
     "start": "node server.js"
-  },
-  "engines": {
-    "node": ">=16"
   }
 }
